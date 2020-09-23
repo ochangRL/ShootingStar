@@ -1,0 +1,13 @@
+﻿  Ultralisk.cpp
+c:\users\kga_6\desktop\shootingstar\shootingstar\shootingstar\unit.h(63): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_6\desktop\shootingstar\shootingstar\shootingstar\ultralisk.cpp(104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_6\desktop\shootingstar\shootingstar\shootingstar\ultralisk.cpp(108): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_6\desktop\shootingstar\shootingstar\shootingstar\ultralisk.cpp(113): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_6\desktop\shootingstar\shootingstar\shootingstar\ultralisk.cpp(124): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_6\desktop\shootingstar\shootingstar\shootingstar\ultralisk.cpp(128): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  0 of 1113 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  ShootingStar.vcxproj -> C:\Users\KGA_6\Desktop\ShootingStar\ShootingStar\Release\ShootingStar.exe
